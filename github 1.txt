@@ -1,0 +1,3 @@
+var myString = "nikita";
+var myNumber =18;
+var myBoolean = true;
