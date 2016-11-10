@@ -32,3 +32,7 @@ var age = 18;
 console.log(age);
 var hasPet = false;
 console.log(hasPet);
+
+var morningAlarm= '6:30AM';
+morningAlarm='8:00AM'
+console.log('Morning alarm is set to: ', morningAlarm)
