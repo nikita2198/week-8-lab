@@ -27,3 +27,8 @@ console.log('But this just being short of jaundice all the time confused them.')
 
 var strength = '50,000 pounds';
 console.log(strength);
+
+var age = 18;
+console.log(age);
+var hasPet = false;
+console.log(hasPet);
